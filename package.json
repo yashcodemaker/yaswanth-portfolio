@@ -1,0 +1,12 @@
+{
+  "name": "yaswanth-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive Animated Portfolio of Yaswanth Kumar S",
+  "scripts": {
+    "start": "npx serve . -p 8080",
+    "dev": "npx serve ."
+  },
+  "keywords": ["portfolio", "cyberpunk", "interactive", "ai-agent", "developer-portfolio"],
+  "author": "Yaswanth Kumar S <ys612738@gmail.com>",
+  "license": "MIT"
+}
