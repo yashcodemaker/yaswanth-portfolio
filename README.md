@@ -146,7 +146,6 @@ Deploying takes under 2 minutes:
 - 💼 **LinkedIn**: [linkedin.com/in/yaswanth-kumar-s-9442b7348](https://linkedin.com/in/yaswanth-kumar-s-9442b7348)
 - 🐙 **GitHub**: [@yashcodemaker](https://github.com/yashcodemaker)
 - 📧 **Email**: [ys612738@gmail.com](mailto:ys612738@gmail.com)
-- 📞 **Phone / WhatsApp**: [+91-7411613241](tel:+917411613241)
 - 📍 **Location**: Bengaluru, Karnataka, India
 
 ---
